@@ -16,7 +16,7 @@
 		</Style>
 		<Placemark>
 			<name>Taxi 1</name>
-			<styleUrl>#red</styleUrl>
+			<styleUrl>#blue</styleUrl>
 			<LineString>
 				<altitudeMode>relative</altitudeMode>
 				<coordinates>
@@ -205,7 +205,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Taxi 2</name>
-			<styleUrl>#red</styleUrl>
+			<styleUrl>#blue</styleUrl>
 			<LineString>
 				<altitudeMode>relative</altitudeMode>
 				<coordinates>
@@ -306,7 +306,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Taxi 3</name>
-			<styleUrl>#red</styleUrl>
+			<styleUrl>#blue</styleUrl>
 			<LineString>
 				<altitudeMode>relative</altitudeMode>
 				<coordinates>
@@ -518,7 +518,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Taxi 4</name>
-			<styleUrl>#red</styleUrl>
+			<styleUrl>#blue</styleUrl>
 			<LineString>
 				<altitudeMode>relative</altitudeMode>
 				<coordinates>
@@ -896,7 +896,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Taxi 6</name>
-			<styleUrl>#red</styleUrl>
+			<styleUrl>#blue</styleUrl>
 			<LineString>
 				<altitudeMode>relative</altitudeMode>
 				<coordinates>
@@ -973,7 +973,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Taxi 7</name>
-			<styleUrl>#red</styleUrl>
+			<styleUrl>#blue</styleUrl>
 			<LineString>
 				<altitudeMode>relative</altitudeMode>
 				<coordinates>
@@ -1145,7 +1145,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Taxi 8</name>
-			<styleUrl>#red</styleUrl>
+			<styleUrl>#blue</styleUrl>
 			<LineString>
 				<altitudeMode>relative</altitudeMode>
 				<coordinates>
@@ -1252,7 +1252,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Taxi 9</name>
-			<styleUrl>#red</styleUrl>
+			<styleUrl>#blue</styleUrl>
 			<LineString>
 				<altitudeMode>relative</altitudeMode>
 				<coordinates>
@@ -1307,7 +1307,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Taxi 10</name>
-			<styleUrl>#red</styleUrl>
+			<styleUrl>#blue</styleUrl>
 			<LineString>
 				<altitudeMode>relative</altitudeMode>
 				<coordinates>
@@ -1455,7 +1455,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Taxi 11</name>
-			<styleUrl>#red</styleUrl>
+			<styleUrl>#blue</styleUrl>
 			<LineString>
 				<altitudeMode>relative</altitudeMode>
 				<coordinates>
@@ -1529,7 +1529,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Client</name>
-			<styleUrl>#blue</styleUrl>
+			<styleUrl>#red</styleUrl>
 			<LineString>
 				<altitudeMode>relative</altitudeMode>
 				<coordinates>
