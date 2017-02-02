@@ -16,6 +16,7 @@
 		</Style>
 		<Style id="blue">
 			<LineStyle>
+				<color>ffffffff</color>
 				<width>4</width>
 			</LineStyle>
 		</Style>
